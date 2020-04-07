@@ -1,6 +1,6 @@
 ;
 //asignar un nombre y versión al cache
-const CACHE_NAME = 'v1_cache_programador_fitness',
+const CACHE_NAME = 'v1_cache_cf',
   urlsToCache = [
     './',
     'https://fonts.googleapis.com/css?family=Raleway:400,700',
@@ -8,8 +8,7 @@ const CACHE_NAME = 'v1_cache_programador_fitness',
     'https://use.fontawesome.com/releases/v5.0.7/css/all.css',
     'https://use.fontawesome.com/releases/v5.0.6/webfonts/fa-brands-400.woff2',
     './style.css',
-    './script.js',
-    './img/ProgramadorFitness.png',
+    './script.js
     './img/favicon.png'
   ]
 
